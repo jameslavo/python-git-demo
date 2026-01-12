@@ -1,1 +1,5 @@
-print("Hello Git and GitHub! I am greating you in French")
+hungry=input("are you hungry?")
+if hungry=="yes":
+    print("eat samosa")
+else:
+    print("do your homework")
